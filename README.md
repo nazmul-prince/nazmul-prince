@@ -25,6 +25,6 @@ I’ve led engineering teams and worked on high-traffic systems handling **185K+
 
 I share engineering notes, small runnable examples, and case studies that explain the problem, the approach I tested, and the trade-offs I would consider in production.
 
- [Java Backend Lab]((https://github.com/nazmul-prince/backend-engineering-notes)) — Java 21 examples, tests, and explanations of trade-offs
-
+ [Java Backend Lab](https://github.com/nazmul-prince/backend-engineering-notes) — Java 21 examples, tests, and explanations of trade-offs
+ 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/md-nazmul-huda-prince)
